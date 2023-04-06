@@ -1,2 +1,3 @@
 # todo-list-redux-js
-  a todo list app using javascript and redux, with add, delete, and filtering todos based on status. 
+  a todo list app using Javascript and redux.
+  options: add, delete, and filter todos based on status.(All, Completed, Uncompleted) 
